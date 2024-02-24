@@ -1,4 +1,4 @@
 function ArulApp(){
-	return "Hello Arul"
+	return "Hello Arul !"
 }
 module.exports = ArulApp
