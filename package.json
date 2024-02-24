@@ -1,6 +1,6 @@
 {
   "name": "arulapp",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Arul Launchpad",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,6 @@
   "publishConfig": "https://npm.pkg.github.com",
   "repository": "https://github.com/mr9868/arulapp.git",
   "dependencies": {
-    "arulapp": "^2.0.1"
+    "arulapp": "^2.0.2"
   }
 }
