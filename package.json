@@ -1,0 +1,14 @@
+{
+  "name": "arulapp",
+  "version": "1.0.0",
+  "description": "Arul Launchpad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello world\";"
+  },
+  "keywords": [
+    "ArulApp"
+  ],
+  "author": "Mr9868",
+  "license": "ISC"
+}
